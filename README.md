@@ -4,7 +4,7 @@ Former Test Manager and Tester. 25 years of experience within IT, Industrial IT 
 Love to learn and work hard to reach new goals - and also being social and relax as well.
 - 👀 Long distance triathlon athlete
 - 🌱 I’m currently learning Data Analytics in the Cloud and Snowflake.
-- - 📫 
+- - 📫 https://www.linkedin.com/in/thoreplass/
 
 <!---
 thoreplass/thoreplass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
