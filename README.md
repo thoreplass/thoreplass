@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @thoreplass
 Cloud Engineer and Data Analytics Architect/Engineer (AWS, Google Cloud and Microsoft Azure). 
 Test Manager and Tester. 25 years of experience within IT, Industrial IT and Quality Assurance. 
-Love to learn and work hard to reach new goals - and also being social and relax as well.
+Love to learn and work hard to reach learning as well.
 - 👀 Long distance triathlon athlete
-- 🌱 I’m working hard every day to improve my job skills and my physical shape as an athlete.
+- 🌱 I’m working every day to improve my job skills and physical shape as an triathlon athlete.
 - - 📫 https://www.linkedin.com/in/thoreplass/
 
 <!---
