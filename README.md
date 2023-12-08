@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thoreplass
-Cloud Engineer and Data Analytics Architect/Engineer (AWS, Google Cloud and Microsoft Azure). 
+Cloud Engineer and Data Analytics Engineer (AWS, Google Cloud and Microsoft Azure). 
 Test Manager and Tester. 25 years of experience within IT, Industrial IT and Quality Assurance. 
 Love to learn and work hard to reach learning as well.
 - 👀 Long distance triathlon athlete
